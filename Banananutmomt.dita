@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mcg_djg_5x">
+    <title>Banana Nut Bread For Mom</title>
+    <shortdesc>For this recipe, Mom will need the follwing: </shortdesc>
+    <taskbody>
+        <context>1 ½ cups whole wheat flour, 1 teaspoon baking soda, 1 teaspoon baking powder, 1
+            teaspoon ground cinnamon, 4 medium size ripe bananas mashed, ½ cup sugar, 1 large egg, 2
+            tablespoons canola oil, 2 teaspoons vanilla extract, ½ cup chopped walnuts, toasted,
+            cooking spray.<p/></context>
+        <steps>
+            <step>
+                <cmd>Stir together the flour, baking soda, baking powder and cinnamon in a large
+                    bowl</cmd>
+            </step>
+            <step>
+                <cmd>Add in the bananas, sugar, egg and canola oil and stir until batter is smooth
+                    and thick</cmd>
+            </step>
+            <step>
+                <cmd>Pour into a 9x5 inch pan after coating it with cooking spray</cmd>
+            </step>
+            <step>
+                <cmd>Bake at 350 degrees for 55 minutes or until a wooden toothpick inserted in the
+                    middle reveals no residue</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
