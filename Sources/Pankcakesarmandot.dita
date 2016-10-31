@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_yd5_qkg_5x">
+    <title>Fluffy Pancakes for Armando</title>
+    <shortdesc>For this recipe, Armando will need the following: ¾ cups whole wheat pastry flour, ¾
+        cup unbleached all purpose flour (or whole wheat), 2 teaspoons baking powder, dash of salt,
+        1 tablespoon Ener-G Egg Replacer, 2 or 3 mashed bananas, 1 cup soy milk, ½ cup sparkling
+        water, 1 tablespoon sunsweet lighter bake, 1 tablespoon fresh lemon juice</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Mix together whole wheat pastry flour, baking powder, and salt in a medium
+                    bowl</cmd>
+            </step>
+            <step>
+                <cmd>In a separate bowl, whish the Egg Replacer with ¼ cup of warm water until
+                    frothy.  Add the bananas, soy milk, sparkling water and light bake until well
+                    mixed </cmd>
+            </step>
+            <step>
+                <cmd>Add lemon juice, then stirring the bananas into the mixture while adding dry
+                    ingredients until combined  </cmd>
+            </step>
+            <step>
+                <cmd>Heat a griddle or frying pan over medium heat.  Using ¼ cup per pancake, place
+                    on griddle</cmd>
+            </step>
+            <step>
+                <cmd>Watch until bubbled begin to appear on batter then flip Repeat as needed for
+                    multiple pancakes  </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

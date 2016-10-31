@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ags_34g_5x">
+    <title>French Toast for Mom or Armando</title>
+    <shortdesc>For this recipe, Mom or Armando will need the following ingredients: 8 Silces of
+        French Bread, Vegan French for Armando, 2 cups of milk, soy or rice milk for Armando, 2
+        tablespoons butter, 4 tablespoons tofu for Hermando, 2 teaspoons of cinnamon, 1 teaspoon
+        vanilla</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In blender, blend all ingredients except the bread.  Transfer the mixtrure in a
+                    short bowl</cmd>
+            </step>
+            <step>
+                <cmd>Dip slices of bread in appropriate batter, and add extra cinamon to
+                    liking</cmd>
+            </step>
+            <step>
+                <cmd>Place bread in frying pan over medium heat and simmer until brown on each
+                    side</cmd>
+            </step>
+            <step>
+                <cmd>Top with fresh fruit if available</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

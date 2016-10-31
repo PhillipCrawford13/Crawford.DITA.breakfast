@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dq2_dkg_5x">
+    <title>Healthy Berry Yogurt Smoothie for Armando</title>
+    <shortdesc>For this Recipe, Armando will need the follwing: ¾ cup fresh blueberries, ¾ cup fresh
+        blackberries, 5.3 ounce package plain greek yogurt, 1 cup vanilla soy milk, 1 whole
+        banana</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Add all of the ingredients into our blender</cmd>
+            </step>
+            <step>
+                <cmd>Pulse for 30 seconds.  If too thick add splashes of soy milk to even out
+                    mixture.</cmd>
+            </step>
+            <step>
+                <cmd>Pour into a large tumbler or glass and enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
